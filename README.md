@@ -1,5 +1,5 @@
 # TrackPulse — Music Analytics SQL Project 
-[Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+[Click Here to get Dataset](trackpulse_dataset.csv)
 
 ![TrackPulse Logo](trackpulse_logo_banner.png)
 
