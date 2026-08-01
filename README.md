@@ -1,4 +1,4 @@
-# TrackPulse — Music Analytics SQL Project and Query Optimization
+# TrackPulse — Music Analytics SQL Project 
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 ![TrackPulse Logo](trackpulse_logo_banner.png)
